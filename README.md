@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="YOUR-ALT-TEXT" src="/bar777.png" width="60px" align="left" style="padding-right: 40px">
+  <img alt="YOUR-ALT-TEXT" src="/bar777.png" width="59px" align="left" style="padding-right: 40px">
   
   ## console.log(introduction);
   >
