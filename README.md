@@ -1,9 +1,7 @@
 <p align="center">
   <img alt="YOUR-ALT-TEXT" src="/bar4.png" align="left" width="50px" style="padding-right: 40px">
   
-  ## About Me
-  
-  console.log(introduction);
+  ## console.log(introduction);
   >
    Hi! I'm a versatile software developer specializing in web development, UI/UX design, and effective collaboration. I'm committed to learning and growing in the fast-paced tech world. Currently, I'm particularly interested in LLM, image generation, and typefaces.
    Please note that my GitHub activity graph may not accurately represent my recent work, as it does not include projects completed under my internship Git account.
