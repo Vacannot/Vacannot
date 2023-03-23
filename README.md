@@ -17,7 +17,7 @@ A versatile software developer with experience in web development, teamwork, and
 - **MSc Information and Communication Engineering** (Incomplete): Lund University
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="/bar.png">
+ <source media="(prefers-color-scheme: light)" srcset="/bar.png">
  <img alt="YOUR-ALT-TEXT" src="/bar.png">
 </picture>
