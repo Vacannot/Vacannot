@@ -12,11 +12,11 @@
 
 ## Achievements
 
-- **MVP Release for Volvo Penta Connect**: During my time as an Intern at Volvo Penta Connect I took part of developing interfaces and general work for the MVP release
-- **Web-Chat App**: As a student me and my classmates developed a web socket chat app with rooms and private messages
-- **Marketplace App**: Together with a group I took part of developing a marketplace app for renting things, this is [live](https://pinkrent-6a7wj2g2l-vacannot.vercel.app/)
-- **Gamified Swedish Vocabulary Learning**: As a gift for my girlfriend and hobby project I made a small English-Swedish vocabulary learning game, this is soon [live](https://swetree.vercel.app/)
-- **Best Design 3 Hour Case**: I, together with 3 other people from my school won a competition for best design in a three-hour-long case study, [link](https://www.linkedin.com/posts/simon-e-51a54b80_also-happy-to-announce-that-i-together-with-activity-6975186898801631232-9xks)
+- **MVP Release for Volvo Penta Connect**: Contributed to developing interfaces for Volvo Penta Connect's MVP release as an intern.
+- **Web-Chat App**: Collaborated with classmates to create a web socket chat app featuring rooms and private messages.
+- **Marketplace App**: Co-developed a marketplace app for renting items, this is [live](https://pinkrent-6a7wj2g2l-vacannot.vercel.app/)
+- **Gamified Swedish Vocabulary Learning**: Developed a hobby project as a gift - an English-Swedish vocabulary game, this is soon [live](https://swetree.vercel.app/)
+- **Best Design 3 Hour Case**: Won a design competition in a three-hour case study with three classmates., [link](https://www.linkedin.com/posts/simon-e-51a54b80_also-happy-to-announce-that-i-together-with-activity-6975186898801631232-9xks)
 
 ## Experience
 
