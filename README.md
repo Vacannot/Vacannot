@@ -16,14 +16,13 @@
 - **Gamified Swedish Vocabulary Learning**: Developed a hobby project as a gift - an English-Swedish vocabulary game, this is soon [live](https://swetree.vercel.app/)
 - **Best Design 3 Hour Case**: Won a design competition in a three-hour case study with three classmates., [link](https://www.linkedin.com/posts/simon-e-51a54b80_also-happy-to-announce-that-i-together-with-activity-6975186898801631232-9xks)
 
-## Experience
+## Experience & Education
 
 - **Software Development Intern**: HiQ-West Volvo Penta Digital Services
 - **Quality Assurance Assistant**: Volvo Group Trucks Technology, Vehicle Automation
-
-## Education
-
+- **​**
 - **Front-End Developer**: Medieinstitutet Göteborg
 - **MSc Computer Science** (Incomplete): Chalmers University of Technology
 - **MSc Information and Communication Engineering** (Incomplete): Lund University
+
 </p>
