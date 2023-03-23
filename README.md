@@ -1,16 +1,19 @@
-### Hi there 👋
+# README.md
 
-<!--
-**Vacannot/Vacannot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+A versatile software developer with experience in web development, teamwork, and quality assurance. Committed to learning and growing in the fast-paced tech world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+
+- **Software Development Intern**: HiQ-West Volvo Penta Digital Services
+- **Operations Assistant**: Säve Plant Nursery
+- **Quality Assurance Assistant**: Volvo Group Trucks Technology, Vehicle Automation
+
+## Education
+
+- **Front-End Developer**: Medieinstitutet Göteborg
+- **MSc Computer Science** (Incomplete): Chalmers University of Technology
+- **MSc Information and Communication Engineering** (Incomplete): Lund University
+
+![This is a alt text.](/bar.png "This is a sample image.")
