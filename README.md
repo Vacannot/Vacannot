@@ -20,7 +20,7 @@
 
 - **Software Development Intern**: HiQ-West Volvo Penta Digital Services
 - **Quality Assurance Assistant**: Volvo Group Trucks Technology, Vehicle Automation
-- **​**
+  >
 - **Front-End Developer**: Medieinstitutet Göteborg
 - **MSc Computer Science** (Incomplete): Chalmers University of Technology
 - **MSc Information and Communication Engineering** (Incomplete): Lund University
