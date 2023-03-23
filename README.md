@@ -3,9 +3,11 @@
   
   ## About Me
   
-  A versatile software developer with experience in web development, teamwork, and quality assurance. Committed to learning and growing in the fast-paced tech world.
+  console.log(introduction);
+  >
+   Hi! I am a versatile software developer with experience in web development, teamwork, and quality assurance. Committed to learning and growing in the fast-paced tech world.
   > 
-  You can find my .pdf CV [HERE](/CV%202024.pdf), my website CV [HERE](https://vacannot.github.io/CV/) and my LinkedIn [HERE](https://www.linkedin.com/in/simon-e-51a54b80/),
+  You can find my .pdf CV [here](/CV%202024.pdf), my website CV [here](https://vacannot.github.io/CV/) and my LinkedIn [here](https://www.linkedin.com/in/simon-e-51a54b80/),
 
 ## Experience
 
