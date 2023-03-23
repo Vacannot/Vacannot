@@ -16,7 +16,7 @@ A versatile software developer with experience in web development, teamwork, and
 - **MSc Computer Science** (Incomplete): Chalmers University of Technology
 - **MSc Information and Communication Engineering** (Incomplete): Lund University
 
-<picture>
+<picture style="float: right">
  <source media="(prefers-color-scheme: dark)" srcset="/bar.png">
  <source media="(prefers-color-scheme: light)" srcset="/bar.png">
  <img alt="YOUR-ALT-TEXT" src="/bar.png">
