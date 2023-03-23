@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="YOUR-ALT-TEXT" src="/bar.png" align="left" width="200px" style="padding-right: 20px">
+  <img alt="YOUR-ALT-TEXT" src="/bar.png" align="left" style="padding-right: 40px">
   
   ## About Me
   
