@@ -16,4 +16,8 @@ A versatile software developer with experience in web development, teamwork, and
 - **MSc Computer Science** (Incomplete): Chalmers University of Technology
 - **MSc Information and Communication Engineering** (Incomplete): Lund University
 
-![This is a alt text.](/bar.png "This is a sample image.")
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="/bar.png">
+</picture>
