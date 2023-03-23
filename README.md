@@ -3,6 +3,7 @@
  <source media="(prefers-color-scheme: light)" srcset="/bar.png">
  <img alt="YOUR-ALT-TEXT" src="/bar.png">
 </picture>
+
 ## About Me
 
 A versatile software developer with experience in web development, teamwork, and quality assurance. Committed to learning and growing in the fast-paced tech world.
