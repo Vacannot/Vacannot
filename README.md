@@ -3,8 +3,8 @@
   
   ## console.log(introduction);
   >
-   Hi! I'm a versatile software developer specializing in web development, UI/UX design, and effective collaboration. I'm committed to learning and growing in the fast-paced tech world. Currently, I'm particularly interested in LLM, image generation, and typefaces.
-   Please note that my GitHub activity graph may not accurately represent my recent work, as it does not include projects completed under my internship Git account.
+   Hi! I'm Simon, a software developer specializing in web development and UI/UX design. I'm committed to learning and growing in the fast-paced tech world. Currently, I'm particularly interested in LLM, image generation, and typefaces.
+   Please note that my GitHub activity graph may not accurately represent my recent work, as it does not include projects completed during my internship.
   > 
   You can find my full .pdf CV [here](/CV%202024.pdf), my website CV [here](https://vacannot.github.io/CV/) and my LinkedIn [here](https://www.linkedin.com/in/simon-e-51a54b80/)
 
@@ -13,7 +13,7 @@
 - **MVP Release for Volvo Penta Connect**: Contributed to developing interfaces for Volvo Penta Connect's MVP release as an intern. TS: TSX, SASS, VITEST
 - **Web-Chat App**: Collaborated with classmates to create a web socket chat app featuring rooms and private messages.
 - **Marketplace App**: Co-developed a marketplace app for renting items, this is [live](https://pinkrent-6a7wj2g2l-vacannot.vercel.app/)
-- **Gamified Swedish Vocabulary Learning**: Developed a hobby project as a gift - an English-Swedish vocabulary game, this is soon [live](https://swetree.vercel.app/)
+- **Gamified Swedish Vocabulary Learning**: Developed a hobby project as a gift - an English-Swedish vocabulary game, this is soon [live](https://swetree.vercel.app/) TS: NEXT, TSX
 - **Best Design 3 Hour Case**: Won a design competition in a three-hour case study with three classmates., [link](https://www.linkedin.com/posts/simon-e-51a54b80_also-happy-to-announce-that-i-together-with-activity-6975186898801631232-9xks)
 
 ## Experience & Education
