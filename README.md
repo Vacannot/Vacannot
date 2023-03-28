@@ -10,7 +10,7 @@
 
 ## Achievements
 
-- **MVP Release for Volvo Penta Connect**: Contributed to developing interfaces for Volvo Penta Connect's MVP release as an intern.
+- **MVP Release for Volvo Penta Connect**: Contributed to developing interfaces for Volvo Penta Connect's MVP release as an intern. TS: TSX, SASS, VITEST
 - **Web-Chat App**: Collaborated with classmates to create a web socket chat app featuring rooms and private messages.
 - **Marketplace App**: Co-developed a marketplace app for renting items, this is [live](https://pinkrent-6a7wj2g2l-vacannot.vercel.app/)
 - **Gamified Swedish Vocabulary Learning**: Developed a hobby project as a gift - an English-Swedish vocabulary game, this is soon [live](https://swetree.vercel.app/)
