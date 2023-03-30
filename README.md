@@ -13,7 +13,7 @@
 - **MVP Release for Volvo Penta Connect**: Contributed to developing interfaces for Volvo Penta Connect's MVP release as an intern. Stack: TSX, SASS, VITEST
 - **Web-Chat App**: Collaborated with classmates to create a web socket chat app featuring rooms and private messages. Stack: Nodemon, Express, Socket.io, Node, MUI, Jest, 
 - **Marketplace App**: Co-developed a marketplace app for renting items, this is [live](https://pinkrent-6a7wj2g2l-vacannot.vercel.app/). Stack: Cypress, Firebase, TSX, Sass
-- **Gamified Swedish Vocabulary Learning**: Developed a hobby project as a gift - an English-Swedish vocabulary game, this is soon [live](https://swetree.vercel.app/). Stack: NEXT, TSX
+- **Gamified Swedish Vocabulary Learning**: Developed a hobby project as a gift - an English-Swedish vocabulary game, this is [live](https://swetree.vercel.app/). Stack: NEXT, TSX
 - **Best Design 3 Hour Case**: Won a design competition in a three-hour case study with three classmates. [link](https://www.linkedin.com/posts/simon-e-51a54b80_also-happy-to-announce-that-i-together-with-activity-6975186898801631232-9xks)
 
 ## Experience & Education
