@@ -4,7 +4,7 @@
   ## console.log(introduction);
   >
    Hi! I'm Simon, a software developer specializing in web development and UI/UX design. I'm committed to learning and growing in the fast-paced tech world. Currently, I'm particularly interested in LLM, image generation, and typefaces.
-   Please note that my GitHub activity graph may not accurately represent my recent work, as it does not include projects completed during my internship.
+   Please note that my GitHub activity graph may not accurately represent my recent work, as it does not include commits done on work accounts.
   > 
   You can find my full .pdf CV [here](/CV%202024.pdf), my website CV [here](https://vacannot.github.io/CV/) and my LinkedIn [here](https://www.linkedin.com/in/simon-e-51a54b80/)
 
